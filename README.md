@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## 나영탁
 ### 안녕하세요
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **nayoungtak/nayoungtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
