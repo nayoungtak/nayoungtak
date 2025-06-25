@@ -1,13 +1,14 @@
 ## Hi there 👋
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=안녕하세요&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=안녕하세요&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           </div>
     </div>
+    
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayoungtak&layout=compact)
 
